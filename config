@@ -1,0 +1,6 @@
+SUITE="jessie"
+ARCH="armel"
+QEMU_COMMAND="qemu-arm -cpu arm926"
+DEBIAN_MIRROR=${DEBIAN_MIRROR:-"http://debian.jessie.armel.hempeldesigngroup.com:8080"}
+EV3DEV_MIRROR=${EV3DEV_MIRROR:-"http://ev3dev.jessie.armel.hempeldesigngroup.com:8080"}
+IMAGE_FILE_SIZE=${IMAGE_FILE_SIZE:-"1800M"}

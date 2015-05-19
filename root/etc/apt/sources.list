@@ -1,0 +1,9 @@
+# deb http://ftp.debian.org/debian jessie main contrib non-free
+# 
+# deb http://ev3dev.org/debian jessie main
+
+deb http://ev3dev.jessie.armel.hempeldesigngroup.com:8080 jessie main contrib non-free
+
+deb http://debian.jessie.armel.hempeldesigngroup.com:8080 jessie main
+
+
